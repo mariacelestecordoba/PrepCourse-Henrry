@@ -1,1 +1,1 @@
-# PrepCourse-Henrry
+# PrepCourse-Henrry proyecto de crear y clonar un directorio desde git hub a nuestro escritorio
